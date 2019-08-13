@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Creative CV</title>
+    <title></title>
     <meta name="description" content="Creative CV is a HTML resume template for professionals. Built with Bootstrap 4, Now UI Kit and FontAwesome, this modern and responsive design template is perfect to showcase your portfolio, skils and experience."/>
     <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700,200" rel="stylesheet">
     <link href="https://maxcdn.bootstrapcdn.com/font-awesome/latest/css/font-awesome.min.css" rel="stylesheet">
@@ -17,14 +17,13 @@
       <div class="profile-page sidebar-collapse">
         <nav class="navbar navbar-expand-lg fixed-top navbar-transparent bg-primary" color-on-scroll="400">
           <div class="container">
-            <div class="navbar-translate"><a class="navbar-brand" href="#" rel="tooltip">Creative CV</a>
+            <div class="navbar-translate"><a class="navbar-brand" href="#" rel="tooltip"></a>
               <button class="navbar-toggler navbar-toggler" type="button" data-toggle="collapse" data-target="#navigation" aria-controls="navigation" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-bar bar1"></span><span class="navbar-toggler-bar bar2"></span><span class="navbar-toggler-bar bar3"></span></button>
             </div>
             <div class="collapse navbar-collapse justify-content-end" id="navigation">
               <ul class="navbar-nav">
                 <li class="nav-item"><a class="nav-link smooth-scroll" href="#about">About</a></li>
                 <li class="nav-item"><a class="nav-link smooth-scroll" href="#skill">Skills</a></li>
-                <li class="nav-item"><a class="nav-link smooth-scroll" href="#portfolio">Portfolio</a></li>
                 <li class="nav-item"><a class="nav-link smooth-scroll" href="#experience">Experience</a></li>
                 <li class="nav-item"><a class="nav-link smooth-scroll" href="#contact">Contact</a></li>
               </ul>
@@ -41,9 +40,9 @@
       <div class="page-header-image" data-parallax="true" style="background-image: url('images/cc-bg-1.jpg');"></div>
       <div class="container">
         <div class="content-center">
-          <div class="cc-profile-image"><a href="#"><img src="images/anthony.jpg" alt="Image"/></a></div>
+          <div class="cc-profile-image"><a href="#"><img src="images/subodh.jpg" alt="Image"/></a></div>
           <div class="h2 title">Subodh Gaur</div>
-          <p class="category text-white">Test Engineer, Automation Developer</p><a class="btn btn-primary smooth-scroll mr-2" href="#contact" data-aos="zoom-in" data-aos-anchor="data-aos-anchor">Hire Me</a><a class="btn btn-primary" href="#" data-aos="zoom-in" data-aos-anchor="data-aos-anchor">Download CV</a>
+          <p class="category text-white">Test Engineer, Automation Developer</p><a class="btn btn-primary smooth-scroll mr-2" href="#contact" data-aos="zoom-in" data-aos-anchor="data-aos-anchor">Hire Me</a><a class="btn btn-primary" href="cv/Subodh_Gaur_Resume.docx" data-aos="zoom-in" data-aos-anchor="data-aos-anchor">Download CV</a>
         </div>
       </div>
       <div class="section">
@@ -143,138 +142,6 @@
               <div class="progress">
                 <div class="progress-bar progress-bar-primary" data-aos="progress-full" data-aos-offset="10" data-aos-duration="2000" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 80%;"></div><span class="progress-value">80%</span>
               </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-<div class="section" id="portfolio">
-  <div class="container">
-    <div class="row">
-      <div class="col-md-6 ml-auto mr-auto">
-        <div class="h4 text-center mb-4 title">Portfolio</div>
-        <div class="nav-align-center">
-          <ul class="nav nav-pills nav-pills-primary" role="tablist">
-            <li class="nav-item"><a class="nav-link active" data-toggle="tab" href="#web-development" role="tablist"><i class="fa fa-laptop" aria-hidden="true"></i></a></li>
-            <li class="nav-item"><a class="nav-link" data-toggle="tab" href="#graphic-design" role="tablist"><i class="fa fa-picture-o" aria-hidden="true"></i></a></li>
-            <li class="nav-item"><a class="nav-link" data-toggle="tab" href="#Photography" role="tablist"><i class="fa fa-camera" aria-hidden="true"></i></a></li>
-          </ul>
-        </div>
-      </div>
-    </div>
-    <div class="tab-content gallery mt-5">
-      <div class="tab-pane active" id="web-development">
-        <div class="ml-auto mr-auto">
-          <div class="row">
-            <div class="col-md-6">
-              <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom"><a href="#web-development">
-                  <figure class="cc-effect"><img src="images/project-1.jpg" alt="Image"/>
-                    <figcaption>
-                      <div class="h4">Recent Project</div>
-                      <p>Web Development</p>
-                    </figcaption>
-                  </figure></a></div>
-              <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom"><a href="#web-development">
-                  <figure class="cc-effect"><img src="images/project-2.jpg" alt="Image"/>
-                    <figcaption>
-                      <div class="h4">Startup Project</div>
-                      <p>Web Development</p>
-                    </figcaption>
-                  </figure></a></div>
-            </div>
-            <div class="col-md-6">
-              <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom"><a href="#web-development">
-                  <figure class="cc-effect"><img src="images/project-3.jpg" alt="Image"/>
-                    <figcaption>
-                      <div class="h4">Food Order Project</div>
-                      <p>Web Development</p>
-                    </figcaption>
-                  </figure></a></div>
-              <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom"><a href="#web-development">
-                  <figure class="cc-effect"><img src="images/project-4.jpg" alt="Image"/>
-                    <figcaption>
-                      <div class="h4">Web Advertising Project</div>
-                      <p>Web Development</p>
-                    </figcaption>
-                  </figure></a></div>
-            </div>
-          </div>
-        </div>
-      </div>
-      <div class="tab-pane" id="graphic-design" role="tabpanel">
-        <div class="ml-auto mr-auto">
-          <div class="row">
-            <div class="col-md-6">
-              <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom"><a href="#graphic-design">
-                  <figure class="cc-effect"><img src="images/graphic-design-1.jpg" alt="Image"/>
-                    <figcaption>
-                      <div class="h4">Triangle Pattern</div>
-                      <p>Graphic Design</p>
-                    </figcaption>
-                  </figure></a></div>
-              <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom"><a href="#graphic-design">
-                  <figure class="cc-effect"><img src="images/graphic-design-2.jpg" alt="Image"/>
-                    <figcaption>
-                      <div class="h4">Abstract Umbrella</div>
-                      <p>Graphic Design</p>
-                    </figcaption>
-                  </figure></a></div>
-            </div>
-            <div class="col-md-6">
-              <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom"><a href="#graphic-design">
-                  <figure class="cc-effect"><img src="images/graphic-design-3.jpg" alt="Image"/>
-                    <figcaption>
-                      <div class="h4">Cube Surface Texture</div>
-                      <p>Graphic Design</p>
-                    </figcaption>
-                  </figure></a></div>
-              <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom"><a href="#graphic-design">
-                  <figure class="cc-effect"><img src="images/graphic-design-4.jpg" alt="Image"/>
-                    <figcaption>
-                      <div class="h4">Abstract Line</div>
-                      <p>Graphic Design</p>
-                    </figcaption>
-                  </figure></a></div>
-            </div>
-          </div>
-        </div>
-      </div>
-      <div class="tab-pane" id="Photography" role="tabpanel">
-        <div class="ml-auto mr-auto">
-          <div class="row">
-            <div class="col-md-6">
-              <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom"><a href="#Photography">
-                  <figure class="cc-effect"><img src="images/photography-1.jpg" alt="Image"/>
-                    <figcaption>
-                      <div class="h4">Photoshoot</div>
-                      <p>Photography</p>
-                    </figcaption>
-                  </figure></a></div>
-              <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom"><a href="#Photography">
-                  <figure class="cc-effect"><img src="images/photography-3.jpg" alt="Image"/>
-                    <figcaption>
-                      <div class="h4">Wedding Photoshoot</div>
-                      <p>Photography</p>
-                    </figcaption>
-                  </figure></a></div>
-            </div>
-            <div class="col-md-6">
-              <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom"><a href="#Photography">
-                  <figure class="cc-effect"><img src="images/photography-2.jpg" alt="Image"/>
-                    <figcaption>
-                      <div class="h4">Beach Photoshoot</div>
-                      <p>Photography</p>
-                    </figcaption>
-                  </figure></a></div>
-              <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom"><a href="#Photography">
-                  <figure class="cc-effect"><img src="images/photography-4.jpg" alt="Image"/>
-                    <figcaption>
-                      <div class="h4">Nature Photoshoot</div>
-                      <p>Photography</p>
-                    </figcaption>
-                  </figure></a></div>
             </div>
           </div>
         </div>
